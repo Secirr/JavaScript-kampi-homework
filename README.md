@@ -1,4 +1,4 @@
-yazilim-gelistirici-yetistirme-kampi-homeworks
+# yazilim-gelistirici-yetistirme-kampi-homeworks
 
 CONTENTS
 
