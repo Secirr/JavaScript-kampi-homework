@@ -1,4 +1,4 @@
-# yazilim-gelistirici-yetistirme-kampi-homeworks
+# JavaScript-kampi-homeworks
 
 CONTENTS
 
